@@ -1,2 +1,3 @@
 # hello-world
-my first git experience
+my first git exp
+This is fun.
